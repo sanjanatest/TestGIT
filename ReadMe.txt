@@ -16,3 +16,4 @@ Simultaneous update: 'sanajanatest' 'dev' 2
 
 Simulataneous test 2: 'jafferjshah' 'master'
 Simultaneous test 2: 'sanajanatest' 'dev' 1
+Simultaneous test 2: 'sanajanatest' 'dev' 2
